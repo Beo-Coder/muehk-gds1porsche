@@ -1,6 +1,6 @@
-//
-// Created by Leo on 05.04.2023.
-//
+
+// Copyright (c) 2023. Leonhard Baschang
+
 
 #ifndef UNTITLED19_BUTTON_H
 #define UNTITLED19_BUTTON_H

@@ -1,3 +1,7 @@
+
+// Copyright (c) 2023. Leonhard Baschang
+
+
 #include <Arduino.h>
 #include <Joystick.h>
 #include <EEPROM.h>

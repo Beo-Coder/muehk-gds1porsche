@@ -1,6 +1,7 @@
-//
-// Created by Leo on 05.04.2023.
-//
+
+// Copyright (c) 2023. Leonhard Baschang
+
+
 #include "Arduino.h"
 #include "Button.h"
 
